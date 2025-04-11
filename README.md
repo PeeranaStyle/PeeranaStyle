@@ -19,13 +19,18 @@
 <table width="100%">
   <tr>
     <td align="left" width="70%">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=F7F7F7&background=00000000&center=true&vCenter=true&width=450&lines=Hi!%20I'm%20Peeranathakron%20Suilar." />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=F7F7F7&background=00000000&center=true&vCenter=true&width=450&lines=Hi!+I'm+Peeranathakron Suilar." />
     <p align="left">
       ผมนายพีรณฐกร สุ่ยหล้า อายุ 18 ปี เรียนอยู่ ม.6 ที่โรงเรียนธาตุนารายณ์วิทยา สนใจด้านเทคโนโลยีและคอมพิวเตอร์ ผมมีทักษะในด้านการพัฒนาเว็บแอปพลิเคชัน, การเขียนโปรแกรม, การออกแบบ UI/UX, การทำงานกับฐานข้อมูล และ Cybersecurity รวมๆก็ Full-Stack Developer ผมสามารถอ่านและทำความเข้าใจกับภาษาคอมพิวเตอร์ได้ทุกภาษา แม้จะไม่เคยใช้มาก่อน ยกเว้นภาษาระดับต่ำ (Low-level) 
     </p>
     </td>
     <td align="center" width="30%">
       <img src="mypic.png" alt="PeeranaStyle's Photo" width="150" style="border-radius: 12px;" />
+      <p align="center">
+  <a href="https://tipme.in.th/peerana-style" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+  </a>
+</p>
     </td>
   </tr>
 </table>
