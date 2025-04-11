@@ -79,8 +79,19 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://discordapp.com/users/773876782533181461">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+    <a href="https://steamcommunity.com/id/Chubby-Cat/">
+    <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCZ3LicAJdCCPuAkgtv0ewDw">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/316tnkn2vshlnz4xrc2qzmcgfdei">
+    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
 
