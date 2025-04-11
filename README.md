@@ -71,29 +71,31 @@
 ### ▸ Contact Me
 
 <p align="center">
-  <a href="mailto:peerana@example.com">
+  <a href="mailto:peerana@example.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/PeeranaStyle">
+  <a href="https://github.com/PeeranaStyle" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://discordapp.com/users/773876782533181461">
+  <a href="https://discordapp.com/users/773876782533181461" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-    <a href="https://steamcommunity.com/id/Chubby-Cat/">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://steamcommunity.com/id/Chubby-Cat/" target="_blank">
     <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCZ3LicAJdCCPuAkgtv0ewDw">
+  <a href="https://www.youtube.com/channel/UCZ3LicAJdCCPuAkgtv0ewDw" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/316tnkn2vshlnz4xrc2qzmcgfdei">
+  <a href="https://open.spotify.com/user/316tnkn2vshlnz4xrc2qzmcgfdei" target="_blank">
     <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
