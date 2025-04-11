@@ -26,14 +26,10 @@
     </td>
     <td align="center" width="30%">
       <img src="mypic.png" alt="PeeranaStyle's Photo" width="150" style="border-radius: 12px;" />
-      <p align="center">
-  <a href="https://tipme.in.th/peerana-style" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
-  </a>
-</p>
     </td>
   </tr>
 </table>
+
 
 ---
 
