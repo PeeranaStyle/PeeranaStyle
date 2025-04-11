@@ -34,20 +34,28 @@
 
 ### ▸ Experience & Skills
 
-#### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,py,php,cpp,cs,swift,lua,html,css&perline=10" />
-
-#### ⚙️ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask,bootstrap,tailwind&perline=10" />
-
-#### 🗃️ Databases
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres&perline=10" />
-
-#### 🛠️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,apache&perline=10" />
-
-#### 🧪 Others
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=10" />
+<table align="center">
+  <tr>
+    <th align="left">🧠 Languages</th>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,py,php,cpp,cs,swift,lua,html,css&perline=10" /></td>
+  </tr>
+  <tr>
+    <th align="left">⚙️ Frameworks & Libraries</th>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,flask,bootstrap,tailwind&perline=10" /></td>
+  </tr>
+  <tr>
+    <th align="left">🗃️ Databases</th>
+    <td><img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,postgres&perline=10" /></td>
+  </tr>
+  <tr>
+    <th align="left">🛠️ DevOps & Tools</th>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,apache&perline=10" /></td>
+  </tr>
+  <tr>
+    <th align="left">🧪 Others</th>
+    <td><img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=10" /></td>
+  </tr>
+</table>
 
 ---
 
