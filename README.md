@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <th align="left">🛠️ DevOps & Tools</th>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,apache&perline=10" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vim,apache&perline=10" /></td>
   </tr>
   <tr>
     <th align="left">🧪 Others</th>
