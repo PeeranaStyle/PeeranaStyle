@@ -41,7 +41,7 @@
 <table align="center">
   <tr>
     <th align="left">🧠 Languages</th>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,py,php,cpp,cs,swift,lua,html,css&perline=10" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,py,php,cpp,cs,swift,lua,html,css,go&perline=10" /></td>
   </tr>
   <tr>
     <th align="left">⚙️ Frameworks & Libraries</th>
