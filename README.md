@@ -5,82 +5,125 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Building%20Software%20That%20Solves%20Real%20Problems-24292e?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Keep%20Creating%20Keep%20Learning-24292e?style=for-the-badge&logo=github" />
 </p>
 
 <p align="center">
-  <strong>Software Developer • Full Stack Engineer</strong><br>
-  Building scalable web applications, APIs and SaaS products
+  <strong>Full Stack Developer</strong> • <strong>Web Developer</strong>
 </p>
 
 ---
 
-### ▸ Who Am I?
+### ▸ สวัสดีครับ ผมชื่อ พีรณฐกร สุ่ยหล้า
 
 <table width="100%">
   <tr>
     <td align="left" width="70%">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=800&color=F7F7F7&background=00000000&center=true&vCenter=true&width=450&lines=Hi!+I'm+Peeranathakorn+Suilar.;Software+Developer;Full+Stack+Engineer;Building+Production+Systems" />
-      <br><br>
 
-I'm **Peeranathakorn Suilar**, a Software Developer from Thailand passionate about building web applications, backend systems, APIs, automation tools and SaaS products.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F7F7F7&background=00000000&center=false&vCenter=true&width=500&lines=สวัสดีครับ+ผม+พีรณฐกร+สุ่ยหล้า;ชอบสร้างระบบ+และ+เรียนรู้สิ่งใหม่ๆ;Full+Stack+Developer;Backend+Developer" />
 
-My experience includes developing full-stack applications from concept to production, covering system architecture, authentication systems, database design, cloud deployment and performance optimization.
+<br>
 
-Currently focused on modern technologies including Next.js, React, TypeScript, PostgreSQL, Redis, Supabase, Cloudflare and scalable cloud infrastructure.
+ผมชื่อ **พีรณฐกร สุ่ยหล้า** อายุ 19 ปี
 
-   </td>
-    <td align="center" width="30%">
-      <img src="mypic.png" alt="PeeranaStyle's Photo" width="170" />
-    </td>
+ปัจจุบันผมสนใจงานด้าน
+* Web Development
+* Backend Development
+* API Development
+* SaaS Development
+* Database Design
+* Roblox Development
+
+เวลาว่างส่วนใหญ่จะใช้ไปกับการทำโปรเจกต์ส่วนตัว ทดลองไอเดียใหม่ๆ โปรเจกต์ส่วนใหญ่ของผมเป็นโปรเจกต์ที่มีการใช้งานจริงหรือเป็นงานส่วนตัว จึงไม่ได้เปิดเผย Source Code ทั้งหมดบน GitHub
+</td>
+
+<td align="center" width="30%">
+
+<img src="mypic.png" alt="PeeranaStyle's Photo" width="300" />
+
+<br><br>
+
+<a href="https://www.peeracode.com" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Peeracode.com-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
   </tr>
 </table>
-
----
-
-### ▸ Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🚀 VerifyLabs | Production-ready payment slip verification platform built with Next.js, PostgreSQL, Redis and Supabase |
-| 🚀 Streamer Donation System | Real-time donation platform with automatic slip verification and OBS integration |
-| 🚀 Online Student Admission System | Student admission management platform developed for educational institutions |
-| 🚀 Custom SaaS Projects | Various client projects focused on workflow automation and internal business systems |
 
 ---
 
 ### ▸ Experience & Skills
-
 <table align="center">
-  <tr>
-    <th align="left">🧠 Languages</th>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,py,php,cpp,cs,swift,lua,html,css&perline=10" /></td>
-  </tr>
-  <tr>
-    <th align="left">⚙️ Frameworks & Libraries</th>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,bootstrap,tailwind&perline=10" /></td>
-  </tr>
-  <tr>
-    <th align="left">🗃️ Databases</th>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,redis,supabase&perline=10" /></td>
-  </tr>
-  <tr>
-    <th align="left">☁️ Cloud & DevOps</th>
-    <td><img src="https://skillicons.dev/icons?i=git,github,cloudflare,vercel,vscode&perline=10" /></td>
-  </tr>
-</table>
 
+  <tr>
+    <th align="left">Frontend</th>
+    <td>
+      Next.js • React • TypeScript • TailwindCSS • shadcn/ui • Framer Motion • Sonner
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Backend & Services</th>
+    <td>
+      Node.js • PHP • Python • Flask • Supabase • Supabase Auth • Supabase Storage • Redis
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Databases</th>
+    <td>
+      PostgreSQL • MySQL • Redis • Supabase Database
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Mobile</th>
+    <td>
+      Flutter • React Native
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Cloud & Infrastructure</th>
+    <td>
+      Cloudflare • Vercel • Docker
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Programming Languages</th>
+    <td>
+      JavaScript • TypeScript • Python • PHP • C++ • C# • Swift • Lua
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Tools</th>
+    <td>
+      Git • GitHub • VS Code
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left">Integrations</th>
+    <td>
+      Stripe • VerifyLabs
+    </td>
+  </tr>
+
+</table>
 ---
 
-### ▸ Current Focus
+### ▸ ตอนนี้กำลังสนใจ
 
 ```text
-✓ SaaS Development
-✓ Backend Architecture
-✓ Distributed Systems
+✓ Software Development
+✓ Backend Development
+✓ SaaS
 ✓ Cloud Infrastructure
 ✓ Roblox Development
-✓ Software Engineering
+✓ System Design
 ```
 
 ---
@@ -88,16 +131,7 @@ Currently focused on modern technologies including Next.js, React, TypeScript, P
 ### ▸ GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PeeranaStyle&show_icons=true&hide_border=true&theme=github_dark" width="420" />
-      </td>
-      <td>
         <img src="https://github-readme-streak-stats.herokuapp.com?user=PeeranaStyle&hide_border=true&theme=github-dark" width="420" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -105,33 +139,23 @@ Currently focused on modern technologies including Next.js, React, TypeScript, P
 ### ▸ Contact Me
 
 <p align="center">
-
   <a href="https://www.peeracode.com" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;
-
   <a href="mailto:peeranastyle.official@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;
-
   <a href="https://github.com/PeeranaStyle" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  &nbsp;&nbsp;
-
   <a href="https://discordapp.com/users/773876782533181461" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-
 </p>
 
 ---
 
 <p align="center">
-  <b>Design. Build. Deploy. 🚀</b>
+  ขอบคุณที่แวะเข้ามาครับ<br>
+  <b>Keep Creating, Keep Learning 🚀</b>
 </p>
