@@ -87,7 +87,7 @@
   <tr>
     <th align="left">Cloud & Infrastructure</th>
     <td>
-      Cloudflare • Vercel • Docker
+      Cloudflare • Vercel • Supabase
     </td>
   </tr>
 
@@ -101,7 +101,7 @@
   <tr>
     <th align="left">Tools</th>
     <td>
-      Git • GitHub • VS Code
+      Git • GitHub • VS Code • Cursor • Claude 
     </td>
   </tr>
 
